@@ -1,6 +1,6 @@
 # Calcium-mediated-regulation-of-astrocytes-response-in-the-brain
 
-A dynamical study of the functioning and interaction of astrocytes with neuronsl.
+A dynamical study of the functioning and interaction of astrocytes with neurons.
 Until recently glia was belived to serve as structural and chemical support for the neurons. However,
 novel studies point towards the active role of glia in the brain. As most aboundant glial cell in
 the mammalian brain, astrocytes have been found to be involved in sensing and regulating synaptic
